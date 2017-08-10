@@ -1,7 +1,6 @@
-package com.assignments;
+package com.assignments.rectangle;
 
 import java.util.Scanner;
-
 
 
 /**
