@@ -6,9 +6,11 @@ package com.assignments;
 public class Test {
 
     public static void main(String[] args) {
-        // write your code here
+
 
         new Test().f2();
+        System.out.println("Thanu");
+
 
     }
 
