@@ -10,6 +10,7 @@ public class Test {
 
         new Test().f2();
         System.out.println("Thanu");
+        System.out.println("chinna");
 
 
     }
